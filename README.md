@@ -15,7 +15,7 @@ Sade, hızlı ve gereksiz içeriklerden arındırılmış Android TV launcher.
 
   ## APK İndir
 
-[⬇️ Dizdar Lancher APK İndir]([https://github.com/edizdar/Dizdar-Lancher-androidtvlauncher](https://github.com/edizdar/Dizdar-Launcher/releases/download/lancher/dizdarlauncher.apk)
+[⬇️ Dizdar Lancher APK İndir]([https://github.com/edizdar/Dizdar-Lancher-androidtvlauncher] (https://github.com/edizdar/Dizdar-Launcher/releases))
 
 ## Kurulum
 
