@@ -29,4 +29,4 @@ APK dosyasını Releases bölümünden indirebilirsiniz.
 
 Detaylı kurulum, ADB bağlantısı ve varsayılan launcher yapma adımları için:
 
-[Kurulum Rehberini Aç](rehberi.html)
+[Kurulum Rehberini Aç](https://www.eroldizdar.tr/p/android-tv-icin-sade-hzl-ve-kullansl.html)
