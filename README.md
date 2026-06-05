@@ -1,4 +1,4 @@
-# Android TV Launcher
+# Dizdar Lancher: Android TV Launcher
 
 Sade, hızlı ve gereksiz içeriklerden arındırılmış Android TV launcher.
 
