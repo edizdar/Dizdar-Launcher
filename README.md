@@ -13,6 +13,10 @@ Sade, hızlı ve gereksiz içeriklerden arındırılmış Android TV launcher.
 - HDMI ve TV giriş kaynaklarına hızlı erişim
 - Kumanda ile kolay kullanım
 
+  ## APK İndir
+
+[⬇️ Dizdar Lancher APK İndir](https://github.com/edizdar/Dizdar-Lancher-androidtvlauncher/releases/download/lancher/dizdarlancher.apk)
+
 ## Kurulum
 
 1. Releases bölümünden APK dosyasını indirin.
